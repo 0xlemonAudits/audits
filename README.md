@@ -14,6 +14,7 @@ I have a proven track record in both public and private contests on platforms su
 
 | №  | Date     | Protocol            | Findings   | Report   | Type         | Competition Platform | More Details  |
 |----|----------|---------------------|------------|----------|--------------|----------------------|---------------|
+| 6 | 12.2024  | [BakerFi Invitational](https://code4rena.com/audits/2024-12-bakerfi-invitational)     | 6H, 7M     | Private  | Staking, Re-staking | Code4rena           | 🥇 place     |
 | 5 | 11.2024  | [vVv Launchpad](https://audits.sherlock.xyz/contests/647?filter=results)     | 1H     | [Public](https://audits.sherlock.xyz/contests/647?filter=results)  | Investments & Token distribution | Sherlock           | 🥇 place     |
 | 4 | 10.2024  | [Gamma Brevis Rewarder](https://audits.sherlock.xyz/contests/496?filter=results)   | 1H     | [Public](https://audits.sherlock.xyz/contests/496?filter=results)  | Rewarder infrastructure        | Sherlock           | 🥉 place      |
 | 3 | 07.2024  | [TraitForge](https://code4rena.com/audits/2024-07-traitforge)   | 3H, 5M     | [Public](https://code4rena.com/reports/2024-07-traitforge)  | NFT        | Code4rena           | 🥇 place      |
